@@ -14,17 +14,7 @@ Includes a concurrent server capable of handling multiple clients simultaneously
 - **RTT Calculation:**: Measures the time taken for messages to travel to the server and back, providing insights into network performance.
 - **Packet Loss Monitoring:**: Tracks packet loss percentage, comparing theoretical calculations with actual results.
 
-## Installation
-
-### Prerequisites:
-- Python 3.x
-- Required Python libraries:
-  - `socket`
-  - `threading`
-  - `json`
-  - `BeautifulSoup4` (`bs4`)
-  - `matplotlib`
-  - Any additional libraries for translation (e.g., `googletrans`)
+## Execution
 
 ### Steps:
 1. Clone the repository:
